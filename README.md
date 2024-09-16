@@ -1,8 +1,9 @@
 ## Hola mi nombre es Alejandro Martínez 👋
 
-Soy estudiante de 2º DAM en la UNIR 🧑‍💻.
+Soy estudiante de 2º de DAM en la UNIR 🧑‍💻.
 
 Mi formación empezó a través de vídeos explicativos en youtube. Posteriormente me inicié en el curso a distancia de Desarrollo de Aplicaciones y Multiplataforma para seguir desarrollando mis conocimientos y poder insertarme en el mercado laboral.
+
 He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
 💻HTML
 💻CSS
