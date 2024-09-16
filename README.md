@@ -1,16 +1,15 @@
 ## Hola mi nombre es Alejandro Martínez 👋
 
-<!--
-**alexmj004/alexmj004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de 2º DAM en la UNIR 🧑‍💻.
 
-Here are some ideas to get you started:
+Mi formación empezó a través de vídeos explicativos en youtube. Posteriormente me inicié en el curso a distancia de Desarrollo de Aplicaciones y Multiplataforma para seguir desarrollando mis conocimientos y poder insertarme en el mercado laboral.
+He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
+💻HTML
+💻CSS
+💻Java
+💻Python
+💻MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro en el segundo año de la FP de DAM, donde podré formarme en más lenguajes y comenzar las prácticas en una empresa del sector.
+
+
