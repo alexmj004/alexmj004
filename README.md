@@ -1,4 +1,4 @@
-## Hola mi nombre es Alejandro Martínez 👋
+## Hola soy Alejandro Martínez 👋
 
 Soy estudiante de 2º de DAM en la UNIR 🧑‍💻.
 
@@ -13,4 +13,6 @@ He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
 
 Actualmente me encuentro en el segundo año de la FP de DAM, donde podré formarme en más lenguajes y comenzar las prácticas en una empresa del sector.
 
+
+![Docker Image Size](https://img.shields.io/docker/image-size/:user/:repo)
 
