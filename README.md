@@ -13,5 +13,6 @@ He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
 
 Actualmente me encuentro en el segundo año de la FP de DAM, donde podré formarme en más lenguajes y comenzar las prácticas en una empresa del sector.
 
-[hola](https://imgur.com/0bZ9aa0)
+
+[https://i.imgur.com/0bZ9aa0.png](https://i.imgur.com/0bZ9aa0.png)
 
