@@ -13,5 +13,5 @@ He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
 
 Actualmente me encuentro en el segundo año de la FP de DAM, donde podré formarme en más lenguajes y comenzar las prácticas en una empresa del sector.
 
-<a href="https://alexmj004.github.io/LANDING-PAGE/" target="_blank"><img src="[https://imgur.com/a/Rr9YWS9](https://imgur.com/0bZ9aa0)" width="400"></img><a/>
+[https://imgur.com/0bZ9aa0](https://imgur.com/0bZ9aa0)
 
