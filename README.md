@@ -1,17 +1,17 @@
 # Hola soy Alejandro Martínez 👋
 
-Soy estudiante de 2º de DAM en la UNIR 🧑‍💻.
-
-Mi formación empezó a través de vídeos explicativos en youtube. Posteriormente me inicié en el curso a distancia de Desarrollo de Aplicaciones y Multiplataforma para seguir desarrollando mis conocimientos y poder insertarme en el mercado laboral.
+Actualmente curso el máster de big data deportivo en Sport Data Campus, y un curso especializado de Python en Deusto Formación 🧑‍💻.
+Tengo finalizada la FP de DAM, y he adquirido competencias durante mis 3 meses de prácticas como desarrollador Back End.
 
 He trabajado con distintos lenguajes en todo este tiempo, entre ellos destaco:
-💻HTML
-💻CSS
 💻Java
 💻Python
-💻MySQL
+💻BBDD SQL
+💻HTML
+💻CSS
 
-Actualmente me encuentro en el segundo año de la FP de DAM, donde podré formarme en más lenguajes y comenzar las prácticas en una empresa del sector.
+Actualmente me encuentro en búsqueda de nuevos desafíos, donde poder adquirir y reforzar conocimientos y sumar experiencia en el sector. 
+Subiré proyectos propios a mi repositorio y estaré encantado de recibir feedback para poder mejorar.
 
 
 ## **Proyectos destacados**
